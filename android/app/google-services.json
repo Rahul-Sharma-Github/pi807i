@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895277752629",
+    "project_id": "ubixstar-94028",
+    "storage_bucket": "ubixstar-94028.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895277752629:android:5f8627cf347eaf61d52c7c",
+        "android_client_info": {
+          "package_name": "com.example.pi807i"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHYGBGLRF78IvU6VdLTYYd6FT0oxqDzb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
